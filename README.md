@@ -9,6 +9,7 @@ The stack used for this project is:
 - Winston
 - Puppeter
 
-This diagrams try to explain the idea.
+## This diagrams try to explain the idea.
+
 ![N|Solid](https://github.com/damiancipolat/Bots-farm-platform/blob/master/doc/diagram.png?raw=true)
 
