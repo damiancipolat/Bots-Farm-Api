@@ -1,0 +1,26 @@
+{
+  "bot":{
+    "name" :  "BOT-AFIP-EN-BLANCO"
+  },
+  "steps": {
+    "browser":{
+      "proxy"    : false,
+      "headless" : true
+    },
+    "page":{
+      "url"     : "https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx",
+      "id"      : "#imgAfip",
+      "timeout" : 1000
+    },
+    "image":{
+      "match" : "JpegImage.aspx"
+    },
+    "captcha":{
+      "api"     : "http://127.0.0.1:9080/anticaptcha/img/",
+      "timeout" : 19000
+    },
+    "form":{
+      "timeout" : 18000
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "server":{
+    "ip"   : "127.0.0.1",
+    "port" : 9090
+  },
+  "workers" : {
+    "number"    : 4,
+    "planifier" : "random"
+  },
+  "library":{
+  	"anticaptcha":{
+  	"key"       : "",
+        "proxyUrl"  : "179.185.199.195",
+        "proxyPort" : 8080
+  	}
+  },	
+  "db":{
+      "url"  : "",
+      "name" : "botlogs"    
+  },
+  "log":"./results.log"
+}

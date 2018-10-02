@@ -1,0 +1,1482 @@
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:32:25"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:32:26"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"15:32:26"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"15:32:26"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:34:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:34:27"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"15:34:27"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"15:34:27"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:35:00"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:35:01"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"15:35:01"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"15:35:01"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:35:24"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:35:24"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"15:35:25"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"15:35:25"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:35:57"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:35:58"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"15:35:58"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"15:35:58"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"15:37:10"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/favicon.ico","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"15:37:11"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"16:51:38"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"16:51:38"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"16:51:38"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"16:51:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/favicon.ico","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"16:51:39"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"20:19:54"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"20:20:03"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"20:20:03"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:20:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/favicon.ico","timestamp":"20:20:08"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [9wZa90] recognition success.","timestamp":"20:20:34"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"20:20:34"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/adeafip.ico","timestamp":"20:20:35"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:22:42"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:22:42"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:23:46"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:23:46"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"20:26:18"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"20:26:18"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"20:26:19"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:26:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"20:26:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/favicon.ico","timestamp":"20:26:21"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:27:25"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:27:25"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"20:27:50"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"20:27:50"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"20:27:50"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:27:50"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:28:05"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:28:05"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:28:29"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:28:29"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:30:08"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:30:08"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:30:33"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:30:33"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:32:48"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:32:48"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:33:34"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:33:34"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:34:21"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:34:21"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:34:46"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:34:46"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:35:43"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:35:43"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:36:10"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:36:10"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:36:29"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:36:29"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:37:29"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:37:29"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:37:49"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:37:49"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:38:17"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:38:17"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:39:37"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:39:37"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:39:44"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:39:44"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:40:30"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:40:30"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:41:08"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:41:08"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:41:59"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:41:59"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:43:38"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:43:38"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:47:34"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:47:34"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:51:56"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:51:56"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"20:52:34"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"20:52:34"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"20:55:35"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"20:55:59"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"20:56:03"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"20:56:06"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:56:06"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:56:09"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"20:56:09"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"20:56:10"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [0l5l2A] recognition success.","timestamp":"20:56:18"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"20:56:18"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"20:56:19"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"20:56:37"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"20:56:37"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:25:00"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:25:07"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:25:10"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:25:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:25:14"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"21:25:15"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [SUIFsU] recognition success.","timestamp":"21:25:56"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"21:25:56"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"21:26:03"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"21:26:04"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:26:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:26:40"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:26:40"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:26:40"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"21:27:10"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"21:27:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:27:11"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:28:29"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:28:29"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:28:29"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:28:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"21:28:30"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [KnUT25] recognition success.","timestamp":"21:28:38"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"21:28:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"21:28:39"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:41:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:41:09"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:41:09"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:41:09"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"21:41:11"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [8s6t8h] recognition success.","timestamp":"21:41:20"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"21:41:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"21:41:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"21:41:22"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:48:21"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:48:21"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:48:21"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:48:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:48:23"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:48:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"21:48:25"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [YhJ8U1] recognition success.","timestamp":"21:48:36"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"21:48:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"21:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"21:48:40"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"21:49:32"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"21:49:32"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"21:49:32"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:49:32"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:49:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:49:35"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"21:49:36"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"21:49:37"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [IXm22q] recognition success.","timestamp":"21:50:01"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"21:50:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"21:50:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"21:50:04"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"21:50:05"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"21:50:06"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"21:50:06"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"21:50:06"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:03:37"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:03:37"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"22:03:37"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:03:37"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:03:39"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"22:03:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"22:03:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"22:03:40"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"22:03:41"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [21DCe5] recognition success.","timestamp":"22:03:52"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"22:03:52"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:03:53"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"22:03:53"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"22:03:54"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"22:03:55"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"22:03:55"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"22:03:55"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"22:03:55"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"22:03:55"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:04:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:04:40"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"22:04:41"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:04:41"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:04:43"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"22:04:43"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"22:04:44"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"22:04:45"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [DP4y0o] recognition success.","timestamp":"22:04:55"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"22:04:55"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"22:04:56"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"22:04:56"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=fowNyEORhlAfdCVqH39vvwxXHYMU1eufx7l920PTz-a6iEuiq8f1pszJShvu1-mMTLWz4rPLCIaDmBNxaG12cWNTFbo1&t=635839021332467672","timestamp":"22:04:57"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/custom.css","timestamp":"22:04:57"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/jquery-1.11.3.min.js","timestamp":"22:04:57"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/js/bootstrap.min.js","timestamp":"22:04:57"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/css/bootstrap.css","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=vIEaVkfg8GCH0rvuNAy6aJI3jUjzGj3-_tjOEOCltYTQHCRXKTf_Dlv5zfiZvpGKywlRpaCAgVWV-vEG4zaKac7_CoT_VJIHUudijssR6AKoYa-somlVEh8mSUjxLmdOzcGtT7lgArL1TCqUI_lgW2HFESE1&t=7015ec47","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/ScriptResource.axd?d=1aDjQBoHxPR4_hawkJmIsdFh14tMpk4cxf6y3lll_kESjGJqcDsMSu-1F3fiiSeIYkbPHO2fFM3egLMrfrXghyNk_TrWBrU0JGXmOvUXsTdQpzTPo2dIajoZiWxPcvyXhmXew0-MrPUFrESxO7OEaHGerYK78ICS2C14KRAXwZFKqft_0&t=7015ec47","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_salir.png","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_ayuda.png","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_volver.png","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flag_constrab.png","timestamp":"22:04:58"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaConCF/default.css","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 6 - Checking actual job status","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 6 - Extract start job date","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 6 - Extract job log","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/boton_buzon_observ.png","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_treb.png","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo_afip.png","timestamp":"22:04:59"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"22:09:29"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"22:09:29"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"22:10:03"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"22:10:03"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"22:10:08"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"22:10:08"}
+{"level":"info","message":"Bot > STEP 1 - ERROR.","timestamp":"22:11:51"}
+{"level":"info","message":"Bot > Fail in step 1","timestamp":"22:11:51"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:27:42"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:27:48"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:27:51"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:27:54"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:27:54"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:28:15"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:28:22"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:28:22"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:28:29"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:28:29"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:54:24"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:54:38"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:54:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:54:43"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:54:43"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"22:54:43"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"22:54:43"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:55:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:55:28"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:55:28"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:55:33"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:55:33"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"22:55:33"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"22:55:33"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:57:04"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:57:05"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:57:05"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:57:08"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:57:08"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"22:57:08"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"22:57:08"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:57:31"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:57:31"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:57:31"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:57:35"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:57:35"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"22:57:35"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"22:57:35"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"22:58:20"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"22:58:20"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"22:58:21"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"22:58:24"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"22:58:24"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"22:58:24"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"22:58:24"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:01:51"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:01:52"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:01:52"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:01:56"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:01:56"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"23:01:56"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"23:01:56"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:02:09"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:02:11"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:02:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:02:15"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:02:15"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:02:15"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:02:15"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:04:05"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:04:06"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:04:06"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:04:10"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:04:10"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:04:44"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:04:49"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:04:49"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:05:16"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:05:16"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:05:16"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:05:20"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:05:20"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:07:41"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:07:41"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:07:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:07:45"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:07:45"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:07:45"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:07:45"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:09:13"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:09:13"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:09:13"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:09:17"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:09:17"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:09:17"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:09:17"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:10:21"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:10:21"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:10:22"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:10:25"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:10:25"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:10:25"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:10:25"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:11:45"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:11:46"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:11:46"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:11:49"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:11:49"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:11:49"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:11:49"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:12:10"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:12:11"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:12:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:12:14"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:12:14"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:13:25"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:13:25"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:13:26"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:13:29"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:13:29"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"23:13:29"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"23:13:29"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:13:38"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:13:38"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:13:39"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:13:42"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:13:42"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:16:02"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:16:02"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:16:03"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:16:07"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:16:07"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:17:39"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:17:39"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:17:43"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:17:43"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"23:17:43"}
+{"level":"info","message":"Bot > STEP 3 - Valid key.","timestamp":"23:17:43"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:18:06"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:18:06"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:18:07"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:18:10"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:18:10"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"23:18:10"}
+{"level":"info","message":"Bot > STEP 3 - Valid key:6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"23:18:10"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:18:17"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:18:17"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:18:17"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:18:21"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:18:21"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"23:18:21"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"23:18:21"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:02:34"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:02:48"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:02:54"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:02:56"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:04:13"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:04:14"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:04:14"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:04:19"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:04:46"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:04:47"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:04:47"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:04:50"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:04:50"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:04:50"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:04:50"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:04:50"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:05:20"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:05:20"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:06:15"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:06:16"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:06:16"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:06:21"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:06:21"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:06:21"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:06:21"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:06:21"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:21:31"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:21:37"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:21:37"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:21:41"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:21:41"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:21:41"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:21:41"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:21:41"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:23:41"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:23:41"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:24:02"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:24:03"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:24:03"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:24:16"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:24:16"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:24:17"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:24:21"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:24:21"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:24:21"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:24:21"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:24:21"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:24:35"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:24:35"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"00:24:35"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"00:24:35"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:25:10"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:25:11"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:25:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:25:16"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:25:16"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:25:16"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:25:16"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:25:16"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:27:17"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:27:17"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:28:12"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:28:13"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:28:13"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:28:16"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:28:16"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:28:16"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:28:16"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:28:16"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:29:09"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:29:09"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"00:29:09"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"00:29:09"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:31:03"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:31:03"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:31:03"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:32:02"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:32:03"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:32:03"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:32:08"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:32:08"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"00:32:08"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"00:32:08"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:33:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:33:14"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:33:15"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:33:19"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:33:19"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"00:33:19"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"00:33:19"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:35:52"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:35:53"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:35:53"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:35:57"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:35:57"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:36:05"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:36:06"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:36:06"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:36:11"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:36:11"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:36:11"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:36:11"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:36:11"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:38:46"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:38:47"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:38:47"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:38:51"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:38:51"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:38:51"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:38:51"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:38:51"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:39:47"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:39:47"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:41:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:41:27"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:41:27"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:41:31"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:41:31"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:41:31"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:41:31"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:41:31"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:43:16"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:43:16"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:48:05"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:48:21"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:48:23"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:48:26"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:48:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:48:41"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:48:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"00:48:45"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:49:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:49:41"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:49:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:49:45"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:50:03"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:50:04"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:50:04"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:50:07"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:51:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:51:08"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:51:08"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:51:12"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:51:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:51:40"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:51:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:51:46"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:52:18"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:52:19"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:52:19"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:52:23"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:54:35"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:54:39"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:54:39"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:54:42"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:55:01"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:55:02"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:55:02"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:55:06"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:55:29"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:55:29"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:55:30"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:55:33"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:57:19"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:57:19"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:57:20"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:57:23"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"00:59:37"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"00:59:37"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"00:59:38"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"00:59:41"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:01:06"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:01:07"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:01:07"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"01:01:12"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:04:44"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:04:45"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"01:04:49"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:06:15"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:06:15"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:06:15"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"01:06:19"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:07:25"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:07:25"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:07:25"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:07:29"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:07:29"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:07:29"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:07:29"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:07:29"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"01:08:39"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"01:08:39"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:12:47"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:12:48"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:12:48"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:12:52"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:12:52"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:12:52"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:12:52"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:12:52"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:14:26"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:14:26"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:14:27"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:14:30"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:14:30"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:14:30"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:14:30"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:14:30"}
+{"level":"info","message":"Bot > STEP 4 - ERROR in api response.","timestamp":"01:15:14"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"01:15:14"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"01:15:14"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:15:29"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:15:29"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:15:30"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"01:15:34"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:15:39"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:15:40"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:15:40"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:15:43"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:15:43"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:15:43"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:15:43"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:15:43"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"01:17:37"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"01:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"01:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"01:17:42"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"01:17:42"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"01:17:42"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"01:17:42"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"01:17:42"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"01:18:42"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"01:18:42"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"01:18:44"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"01:18:44"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"10:51:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"10:51:23"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"10:51:29"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"10:51:33"}
+{"level":"info","message":"Bot > STEP 2 - ERROR.","timestamp":"10:52:02"}
+{"level":"info","message":"Bot > Fail in step 2","timestamp":"10:52:02"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"10:52:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"10:52:28"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"10:52:28"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"10:52:31"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"10:52:31"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"10:52:31"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"10:52:31"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"10:52:31"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:20:01"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:20:02"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:20:02"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:20:05"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:20:05"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:20:05"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:20:21"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:20:22"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:20:22"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:20:25"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:20:25"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:20:25"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:20:25"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:20:25"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:20:42"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:20:42"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:20:43"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:20:46"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:20:46"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:20:46"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:20:46"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:20:46"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:21:10"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:21:13"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:21:13"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:21:13"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:28:06"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:28:07"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:28:07"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:28:11"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:28:11"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:28:11"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:28:11"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:28:11"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:30:05"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:30:06"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:30:06"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:30:09"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:30:09"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:30:09"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:30:09"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:30:09"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:30:36"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:30:36"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:30:36"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:30:39"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:30:39"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:30:39"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:30:39"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:30:39"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:31:21"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:31:23"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:31:24"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:31:29"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:31:29"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:31:29"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:31:29"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:31:29"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:44:53"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:44:53"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:44:53"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:44:57"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:45:21"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:45:21"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:45:22"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:45:24"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:45:24"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:45:24"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:45:24"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:45:24"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:45:52"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:45:53"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:45:53"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:45:55"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:46:48"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:46:49"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:46:49"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:46:52"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:46:52"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:46:52"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:47:19"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:47:20"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:47:20"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:47:22"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:47:22"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:47:22"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:48:01"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:48:02"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:48:02"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:48:05"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:48:36"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:48:37"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:48:37"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > STEP 3 - ERROR.","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > Fail in step 3","timestamp":"11:48:39"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:49:29"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:49:31"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:49:31"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:49:34"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:49:34"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:49:34"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:53:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:53:08"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://damiancipolat.com/test.html","timestamp":"11:53:09"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:53:12"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:53:12"}
+{"level":"info","message":"Bot > STEP 3 - Extracting data from website.","timestamp":"11:53:12"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:54:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:54:40"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"11:54:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:54:44"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:56:09"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:56:11"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"11:56:11"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:56:14"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:56:14"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"11:56:14"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"11:56:14"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"11:56:14"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"11:58:14"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"11:58:14"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"11:58:22"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"11:58:22"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"11:58:23"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"11:58:26"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"11:58:26"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"11:58:26"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"11:58:26"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"11:58:26"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"12:00:26"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"12:00:26"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"12:00:40"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"12:00:41"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"12:00:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"12:00:44"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"12:00:44"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"12:00:44"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"12:00:44"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"12:00:44"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"12:01:53"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"12:01:53"}
+{"level":"info","message":"Bot > STEP 5 - Waiting for captcha ok.","timestamp":"12:01:55"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"12:01:55"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"12:01:55"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"12:03:24"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"12:03:25"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"12:03:25"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"12:03:28"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"12:03:28"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"12:03:28"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"12:03:28"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"12:03:28"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"12:04:10"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"12:04:10"}
+{"level":"info","message":"Bot > STEP 5 - Waiting for captcha ok.","timestamp":"12:04:12"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"12:05:10"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"12:05:10"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"12:05:18"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"12:05:18"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"12:05:19"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"12:05:22"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"12:05:22"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"12:05:22"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"12:05:22"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"12:05:22"}
+{"level":"info","message":"Bot > STEP 4 - Captcha response OK!","timestamp":"12:06:35"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"12:06:35"}
+{"level":"info","message":"Bot > STEP 5 - Waiting the website to accept the captcha resolved.","timestamp":"12:06:37"}
+{"level":"info","message":"Bot > STEP 6 - Extracting data from website.","timestamp":"12:06:38"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:14:06"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:14:16"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:14:21"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:14:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:14:23"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:14:23"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:14:24"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [32b4oN] recognition success.","timestamp":"23:14:33"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"23:14:33"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"23:14:33"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"23:14:33"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:17:36"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:17:36"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:17:36"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:17:36"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:17:37"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:17:37"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:17:37"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:17:38"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [5xc4l7] recognition success.","timestamp":"23:17:49"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"23:17:49"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"23:17:49"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"23:17:49"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:18:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:18:28"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:18:29"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [W4936f] recognition success.","timestamp":"23:18:35"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"23:18:35"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"23:18:35"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"23:18:35"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:21:08"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:21:09"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:21:09"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:21:09"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:21:09"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:21:10"}
+{"level":"info","message":"Bot > STEP 4 - Captcha is [1lp63d] recognition success.","timestamp":"23:21:18"}
+{"level":"info","message":"Bot > STEP 5 - Filling form with catcha & cuil.","timestamp":"23:21:18"}
+{"level":"info","message":"Bot > STEP 5 - ERROR.","timestamp":"23:21:18"}
+{"level":"info","message":"Bot > Fail in step 5","timestamp":"23:21:18"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:22:20"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:22:20"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:22:20"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:22:20"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:22:21"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:22:22"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:23:00"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:23:00"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:23:00"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:23:00"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:23:01"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:23:02"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:24:07"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:24:07"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:24:07"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:24:07"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:24:08"}
+{"level":"info","message":"Bot > STEP 1 - Creating browser.","timestamp":"23:24:29"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:24:29"}
+{"level":"info","message":"Bot > STEP 2 - Ready to Download content.","timestamp":"23:24:29"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:24:29"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/Default.css","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/~/App_Themes/PersonaConCF/default.css","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=tFfYVixBdH-G215EvwmsufOvWEp3j_us7ejvRLNI-MqG40zzm37t0nQBFtGpaLg09-5waVyvkukwYJyvcaJs21FAP5TXUzGyJSXrEhYYynEEc0rUkTeJqG3jbRyknYkicAXsNA2&t=636517892759576527","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/JpegImage.aspx","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/App_Themes/PersonaSinCF/thmImagenes/fondo.gif","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/TRAMITES_CON_CLAVE_FISCAL/TREB/WebResource.axd?d=GbTdYn-aopNOw_2sIBxgfUfHSAmOHVL6rZ21nt3XC0-CIYmhgEx8mgwlpf3ZGjnBneswU2_wu0_g8L0oWiSyXaV4Rj81&t=635839021332467672","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/flechitas.png","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/logo.png","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/reciclar.gif","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Buffering https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/imagenes/Boton_continuar.png","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 3 - Finding captcha content.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 3 - Captcha founded, decoding.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 3 - Captcha decoded to base64 success.!","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 3 - Clearing buffer and events from Step 2.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:24:30"}
+{"level":"info","message":"Bot > STEP 1 - xxxxxx Creating browser.","timestamp":"23:25:27"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:25:39"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:25:41"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:25:44"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:25:44"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"23:25:44"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"23:25:44"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:25:44"}
+{"level":"info","message":"Bot > STEP 4 - ERROR in api response.","timestamp":"23:25:50"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"23:25:50"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"23:25:50"}
+{"level":"info","message":"Bot > STEP 1 - xxxxxx Creating browser.","timestamp":"23:26:17"}
+{"level":"info","message":"Bot > STEP 1 - Open new page.","timestamp":"23:26:18"}
+{"level":"info","message":"Bot > STEP 2 - Navigate url: http://www.bcra.gov.ar/BCRAyVos/Situacion_Crediticia.asp","timestamp":"23:26:19"}
+{"level":"info","message":"Bot > STEP 2 - Waiting for body.","timestamp":"23:26:27"}
+{"level":"info","message":"Bot > STEP 2 - Page loaded ok.","timestamp":"23:26:27"}
+{"level":"info","message":"Bot > STEP 3 - Extracting google key.","timestamp":"23:26:27"}
+{"level":"info","message":"Bot > STEP 3 - Valid key: 6LdwS08UAAAAALS3Vi6zEITCELwuodHhOQLt8lVv","timestamp":"23:26:27"}
+{"level":"info","message":"Bot > STEP 4 - Sending captcha to anticaptcha API.","timestamp":"23:26:27"}
+{"level":"info","message":"Bot > STEP 4 - ERROR in api response.","timestamp":"23:26:33"}
+{"level":"info","message":"Bot > STEP 4 - ERROR.","timestamp":"23:26:33"}
+{"level":"info","message":"Bot > Fail in step 4","timestamp":"23:26:33"}
