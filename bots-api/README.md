@@ -1,9 +1,8 @@
 ## BOTS API
 This platform is loaded with fully functional bots and ready to be deployed.
 
-The bot uses the Middleware patter to handle the bots steps in the path example: "/botBlanco/steps/"
-
-In the path: /botBlanco/ there is a BOT to crawler for the website of the AFIP:
+### Bot Afip en blanco:
+The bot uses the Middleware patter to handle the bots steps in the path example: "/botBlanco/steps/" in the path: /botBlanco/ there is a BOT to crawler for the website of the AFIP:
 https://serviciosweb.afip.gob.ar/tramites_con_clave_fiscal/treb/app/indexBasica.aspx the api receive a parameter with a CUIL and return his laboral history.
 
 ## Configuration
