@@ -1,5 +1,8 @@
 ## This project use Anticaptcha Api:
+
+Follow this repository for updates!
 https://github.com/damiancipolat/Cluster-Anticaptcha-Api
+
 
 # Anticaptcha Api platform
 This project is an Api Rest platform to use the https://anti-captcha.com services.
