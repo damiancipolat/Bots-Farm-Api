@@ -9,6 +9,7 @@ This platform is loaded with fully functional bots and ready to be deployed.
 
 ### Diagram:
 This diagram show the project arquitecture, is based in microservice architecture.
+
 ![N|Solid](https://github.com/damiancipolat/Bots-farm-platform/blob/master/doc/diagram-bot.png?raw=true)
 
 ## Configuration
